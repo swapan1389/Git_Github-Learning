@@ -43,6 +43,14 @@ Plus, you'll learn how to work with the popular GitHub website to explore existi
 ***
 Here is some `inline code`.
 
+***
+**Block Code**
+```
+let x=5;
+console.log(x);
+```
+
+
 
 
   
