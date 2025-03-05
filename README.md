@@ -50,6 +50,12 @@ let x=5;
 console.log(x);
 ```
 
+**Blockquotes**
+***
+> This is a blockquote.
+>> Nested blockquote.
+
+
 
 
 
