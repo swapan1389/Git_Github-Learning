@@ -50,10 +50,16 @@ let x=5;
 console.log(x);
 ```
 
-**Blockquotes**
 ***
-> This is a blockquote.
->> Nested blockquote.
+
+**Tables**
+***
+| Name | Age | City |
+|------|-----|------|
+|Mark | 18 |CA |
+|Rubel | 19 |MO |
+|Ahan | 20 | PI |
+
 
 
 
