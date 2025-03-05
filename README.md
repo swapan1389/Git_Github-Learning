@@ -45,7 +45,7 @@ Here is some `inline code`.
 
 ***
 **Block Code**
-```
+```js
 let x=5;
 console.log(x);
 ```
