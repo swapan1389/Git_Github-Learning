@@ -60,6 +60,28 @@ console.log(x);
 |Rubel | 19 |MO |
 |Ahan | 20 | PI |
 
+***
+**FootNote**
+***
+This is a sentence with a footnote reference.[^1]
+
+Another footnote example.[^example]
+
+[^1]: This is the first footnote.
+[^example]: This is another footnote.
+
+***
+**Collapsed Details**
+***
+<details>
+  <summary>Click to expand</summary>
+  This is the hidden content that appears when you click the summary.
+</details>
+
+***
+
+
+
 
 
 
