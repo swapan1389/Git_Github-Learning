@@ -80,6 +80,31 @@ Another footnote example.[^example]
 
 ***
 
+❤️
+🥇
+
+***
+**Alert Syntax**
+***
+> [!NOTE]
+> This is a note.
+
+> [!IMPORTANT]
+> This is important.
+
+> [!WARNING]
+> This is a warning.
+***
+**Mermaid.js**
+```mermaid
+graph TD;
+    A[Start] --> B{Decision?};
+    B -->|Yes| C[Option 1];
+    B -->|No| D[Option 2];
+    C --> E[End];
+    D --> E;
+***
+
 
 
 
